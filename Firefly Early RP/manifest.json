@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Wild Update firefly",
+		"description": "Ze firefly early Resource Pack",
+		"uuid": "a51b5911-8a4c-08cb-b1e4-c01d0dbad1a0",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.6"]
+		}
+	},
+	"modules": [
+		{
+			"description": "ss",
+			"type": "resources",
+			"uuid": "7a896bd9-4507-b987-f11d-8f948440bd18",
+			"version": [1, 0, 0]
+		}
+	]
+}
